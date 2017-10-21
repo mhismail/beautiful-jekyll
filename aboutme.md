@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Just because you're dying to know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+- Currently a Pharm. D./ M.S. Pharmaceutical Sciences student at the University at Buffalo in my last year under Dr. Robert Bies. My research focuses on the use of population PK/PD modeling to optimize antipschotic therapy. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Research intern at the Institute for Clinical Pharmacodynamics. Have worked on a wide projects spanning a variety of topics including drug-drug-interaction models, population PK, model-based dose selection, etc.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- When I'm not studying/working I like learning new programming lanuguages (NERD!), spending time with friends/family, playing board games (NERD!), meeting new people, and watching football.
